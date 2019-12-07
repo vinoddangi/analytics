@@ -1,0 +1,21 @@
+{
+  "name": "@analytics/components",
+  "version": "0.0.1-alpha.1+55ad122",
+  "description": "React component lib",
+  "main": "index.js",
+  "repository": "git@github.com:vinoddangi/analytics.git",
+  "author": "Vinod Dangi",
+  "license": "MIT",
+  "scripts": {
+    "story": "start-storybook"
+  },
+  "peerDependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "@storybook/react": "^5.2.8",
+    "babel-loader": "^8.0.6"
+  },
+  "gitHead": "55ad1222f77560fb4e0b711214ae21a402dad6c7"
+}

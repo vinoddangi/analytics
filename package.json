@@ -1,0 +1,13 @@
+{
+  "name": "@analytics",
+  "private": true,
+  "scripts": {
+    "release": "lerna publish --canary" 
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.19.0"
+  }
+}

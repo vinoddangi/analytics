@@ -1,0 +1,10 @@
+{
+  "name": "@analytics/core",
+  "version": "0.0.1-alpha.1+55ad122",
+  "description": "Core lib",
+  "main": "index.js",
+  "repository": "git@github.com:vinoddangi/analytics.git",
+  "author": "Vinod Dangi",
+  "license": "MIT",
+  "gitHead": "55ad1222f77560fb4e0b711214ae21a402dad6c7"
+}
