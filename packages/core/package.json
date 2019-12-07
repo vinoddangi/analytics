@@ -1,6 +1,6 @@
 {
   "name": "@analytics/core",
-  "version": "0.0.1-alpha.12+df453a8",
+  "version": "0.0.1",
   "description": "Core lib",
   "main": "index.js",
   "author": "Vinod Dangi",

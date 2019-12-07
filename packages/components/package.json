@@ -1,6 +1,6 @@
 {
   "name": "@analytics/components",
-  "version": "0.0.1-alpha.12+df453a8",
+  "version": "0.0.1",
   "description": "React component lib",
   "main": "index.js",
   "repository": "git@github.com:vinoddangi/analytics.git",
