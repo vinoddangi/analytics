@@ -11,6 +11,7 @@
     "lerna": "^3.19.0"
   },
   "publishConfig": {
+    "registry":"https://npm.pkg.github.com",
     "access": "private"
   },
   "version": "0.0.1"
