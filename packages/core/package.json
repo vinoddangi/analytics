@@ -6,7 +6,7 @@
   "author": "Vinod Dangi",
   "license": "MIT",
   "publishConfig": {
-    "access": "public"
+    "access": "private"
   },
-  "gitHead": "bbe027b4f0b267557581d379003bce3934542958"
+  "gitHead": "614f8587009c528110c7a13c6f751f812f2eaa78"
 }
