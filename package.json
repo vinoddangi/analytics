@@ -1,13 +1,14 @@
 {
-  "name": "root",
+  "name": "analytics",
   "private": false,
   "scripts": {
-    "release": "lerna publish --canary" 
+    "release": "lerna publish --canary"
   },
   "workspaces": [
     "packages/*"
   ],
   "devDependencies": {
     "lerna": "^3.19.0"
-  }
+  },
+  "version": "0.0.1"
 }
