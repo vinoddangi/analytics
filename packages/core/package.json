@@ -1,6 +1,6 @@
 {
   "name": "@analytics/core",
-  "version": "0.0.1-alpha.10+75ae36a",
+  "version": "0.0.1-alpha.11+8036a93",
   "description": "Core lib",
   "main": "index.js",
   "author": "Vinod Dangi",
@@ -8,5 +8,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "75ae36ab36d46efffd0c37109e96dcd698d12069"
+  "gitHead": "8036a937bdc39fc4c54fbd79bfb18ae537758827"
 }
