@@ -1,5 +1,5 @@
 {
-  "name": "analytics",
+  "name": "@analytics",
   "private": true,
   "scripts": {
     "release": "lerna publish --canary" 
