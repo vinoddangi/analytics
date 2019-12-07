@@ -1,9 +1,9 @@
 {
   "name": "@analytics/core",
-  "version": "0.0.1-alpha.8+9f94ca3",
+  "version": "0.0.1-alpha.9+41767de",
   "description": "Core lib",
   "main": "index.js",
   "author": "Vinod Dangi",
   "license": "MIT",
-  "gitHead": "9f94ca318f3767dce73fab934798bcedaf4b8158"
+  "gitHead": "41767def7ba718292d84e4e31c740188af4bfb7d"
 }

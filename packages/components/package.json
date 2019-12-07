@@ -1,6 +1,6 @@
 {
   "name": "@analytics/components",
-  "version": "0.0.1-alpha.8+9f94ca3",
+  "version": "0.0.1-alpha.9+41767de",
   "description": "React component lib",
   "main": "index.js",
   "repository": "git@github.com:vinoddangi/analytics.git",
@@ -17,5 +17,5 @@
     "@storybook/react": "^5.2.8",
     "babel-loader": "^8.0.6"
   },
-  "gitHead": "9f94ca318f3767dce73fab934798bcedaf4b8158"
+  "gitHead": "41767def7ba718292d84e4e31c740188af4bfb7d"
 }
